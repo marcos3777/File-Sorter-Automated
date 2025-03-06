@@ -1,16 +1,16 @@
-# Meu Projeto Incrível 🚀
+# File Sorter: Minha Primeira Automação 🚀
 
-Este é um dos projetos que criei durante meus estudos! 🎓 É simples, mas me ajudou a aprender bastante sobre programação e desenvolvimento. Tudo foi feito com muita curiosidade e vontade de explorar novas ideias.
+Este projeto representa meu primeiro passo no mundo da automação com Python! 🎓 Embora seja uma aplicação simples, ela resolveu um problema real de organização de arquivos e me proporcionou aprendizados valiosos sobre automação e desenvolvimento de soluções modulares.
 
 ## Sobre o Projeto
 
 - **Objetivo**: Desenvolver minhas habilidades em programação e resolver problemas práticos.
-- **Tecnologias**: Este projeto foi feito com Python usando watchdogs para automatizar.
+- **Tecnologias**: Desenvolvido em Python com a biblioteca Watchdog para monitoramento em tempo real de diretórios.
 
-## Destaques ✨
+## Principais Aprendizados ✨
 
-- **Código Limpo**: Tentei manter o código organizado.
-- **Modular**: Para facilitar adicionar novas pastas e facilitar para outra pessoa editar.
+- **Automação de Tarefas**: Aprendi como transformar processos manuais repetitivos em soluções automatizadas.
+- **Desenvolvimento Modular**: Estruturei o código de forma que seja fácil adicionar novos tipos de arquivos ou modificar o comportamento existente.
 
 ## Vamos Conversar? 💬
 
